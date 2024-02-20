@@ -1,4 +1,10 @@
 # landing-page
+<h1>V1.2.1</h1>
+<ul>
+<li> Add hero CSS styling
+</li>
+</ul>
+
 <h1>V1.2</h1>
 <ul>
 <li> Add hero details
