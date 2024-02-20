@@ -1,3 +1,17 @@
-.header {
-    color: aquamarine;
+header {
+    color: #f9faf8;
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-around;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
 }
