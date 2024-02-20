@@ -122,3 +122,31 @@ blockquote p {
 }
 
 /* End quote styling */
+
+/* Start CTA styling */
+
+.action-container {
+    display: flex;
+    padding: 100px 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-card {
+    background-color: #3882f6;
+    width: 1200px;
+    color: #f9faf8;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.action-container button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 10px 40px;
+    border: 1px solid #f9faf8;
+    border-radius: 10px;
+}
