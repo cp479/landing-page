@@ -1,4 +1,10 @@
 # landing-page
+<h1>V1.6.1</h1>
+<ul>
+<li> Fix white border through <a href="https://stackoverflow.com/questions/42655242/unknown-white-border-around-my-content">margin, padding override to zero</a>
+</li>
+</ul>
+
 <h1>V1.6</h1>
 <ul>
 <li> Add footer
