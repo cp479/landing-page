@@ -1,4 +1,10 @@
 # landing-page
+<h1>V1.6</h1>
+<ul>
+<li> Add footer
+</li>
+</ul>
+
 <h1>V1.5</h1>
 <ul>
 <li> Add CTA section

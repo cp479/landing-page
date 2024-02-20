@@ -150,3 +150,16 @@ blockquote p {
     border: 1px solid #f9faf8;
     border-radius: 10px;
 }
+
+/* End CTA styling */
+
+/* Start footer styling */
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+/* Start footer styling */
