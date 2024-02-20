@@ -1,4 +1,10 @@
 # landing-page
+<h1>V1.4</h1>
+<ul>
+<li> Add quote section
+</li>
+</ul>
+
 <h1>V1.3</h1>
 <ul>
 <li> Add info section

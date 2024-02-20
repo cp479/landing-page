@@ -91,3 +91,34 @@ h2 {
 }
 
 /* End info section styling */
+
+/* Start quote styling */
+
+.quote-container {
+    display: flex;
+    background-color: #e5e7eB;
+    justify-content: center;
+    padding: 50px;
+
+}
+
+blockquote {
+    width: 800px;
+    color: #1f2937;
+}
+
+blockquote p {
+    font-size: 36px;
+    font-weight: 250;
+    font-style: italic;
+    
+}
+
+.author {
+    display: block;
+    text-align: right;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+/* End quote styling */
